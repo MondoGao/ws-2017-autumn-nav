@@ -1,4 +1,4 @@
-## WESharp 2017 秋季招新
+## WESharp 2017 秋季招新入门指引
 
 ### 前言
 
@@ -93,8 +93,22 @@ BTW，fan 墙再大学可是一个必备技能，当遇到无法访问的网站�
 
 #### Cool Stuff
 
-- ​
+- ​[php中文社区](www.phpchina.com)
+- [php资源分享](www.php100.com) 
+- [一行python代码能做什么？](https://zhuanlan.zhihu.com/p/28726375)
+- [你用 Python 或者程序语言写过哪些好玩或者实用的小应用？](https://www.zhihu.com/question/33259780/) 
 
 #### 自学资料
 
-- ​
+- PHP
+  - 熟悉百度、谷歌搜索语法，会用常用的语法  
+  - 搭建wamp环境
+  - 熟悉php基础（www.w3school.com.cn 变量、分支、循环、函数的概念和用法）
+  - 熟悉常见html标签，知道怎样写css（参考前端自学资料）
+  - 尝试用php处理字符串（合并、增加、截取、替换）
+  - 尝试用php进行文件读写（本地文件读取、写入）
+
+- Python
+  - 安装python（选装pycharm）
+  - 熟悉python基础（同php）
+  - 实现链接里的一行程序，尝试读出执行过程
